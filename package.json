@@ -1,0 +1,11 @@
+{
+  "name": "hecho",
+  "version": "1.0.0",
+  "description": "Simple nodejs http server. Prints client headers.",
+  "main": "hecho.js",
+  "repository": "https://github.com/helldweller/hecho",
+  "author": "helldweller",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
